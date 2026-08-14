@@ -1,0 +1,15 @@
+/workspaces/2026_2_POO/Ex01CS/bin/Debug/net10.0/Ex01CS
+/workspaces/2026_2_POO/Ex01CS/bin/Debug/net10.0/Ex01CS.deps.json
+/workspaces/2026_2_POO/Ex01CS/bin/Debug/net10.0/Ex01CS.runtimeconfig.json
+/workspaces/2026_2_POO/Ex01CS/bin/Debug/net10.0/Ex01CS.dll
+/workspaces/2026_2_POO/Ex01CS/bin/Debug/net10.0/Ex01CS.pdb
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/Ex01CS.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/Ex01CS.AssemblyInfoInputs.cache
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/Ex01CS.AssemblyInfo.cs
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/Ex01CS.csproj.CoreCompileInputs.cache
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/Ex01CS.sourcelink.json
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/Ex01CS.dll
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/refint/Ex01CS.dll
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/Ex01CS.pdb
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/Ex01CS.genruntimeconfig.cache
+/workspaces/2026_2_POO/Ex01CS/obj/Debug/net10.0/ref/Ex01CS.dll
