@@ -1,0 +1,20 @@
+LISTA POO 007 - PERSISTENCIA COM JSON
+
+O que foi alterado:
+- cliente_dao.py salva e carrega clientes em clientes.json.
+- categoria_dao.py salva e carrega categorias em categorias.json.
+- produto_dao.py salva e carrega produtos em produtos.json.
+- Os arquivos JSON são criados automaticamente na primeira operação de cadastro.
+- Inserção, atualização, exclusão e reajuste salvam os dados automaticamente.
+- Os IDs continuam com incremento automático e são recuperados ao iniciar o programa.
+
+Como testar:
+1. Abra a pasta Lista-Poo-007 no VS Code.
+2. Execute: python ui.py
+3. Cadastre um cliente, uma categoria e um produto.
+4. Feche o programa.
+5. Execute novamente: python ui.py
+6. Liste os cadastros. Eles devem continuar disponíveis.
+
+Os arquivos clientes.json, categorias.json e produtos.json ficam na mesma pasta dos arquivos Python.
+Não apague esses arquivos se quiser manter os cadastros.
