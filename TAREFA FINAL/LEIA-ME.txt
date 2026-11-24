@@ -1,0 +1,3 @@
+Cada lista terá sua pasta única. Pasta da lista 07, terá somente os códigos referentes a Lista Poo 007, por exemplo.
+
+A pasta "TAREFA FINAL" é uma pasta onde todos os códigos de cada lista feita estará reunida em uma só pasta.
